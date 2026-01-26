@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>Calculator</title>
-
   <style>
     table{
       border: 1px solid black;
